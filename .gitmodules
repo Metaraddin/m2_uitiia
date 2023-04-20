@@ -1,0 +1,6 @@
+[submodule "m2_uitiia_client"]
+	path = m2_uitiia_client
+	url = https://github.com/Metaraddin/m2_uitiia_client.git
+[submodule "m2_uitiia_api"]
+	path = m2_uitiia_api
+	url = https://github.com/Metaraddin/m2_uitiia_api.git
